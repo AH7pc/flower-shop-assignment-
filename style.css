@@ -66,7 +66,6 @@
 }
 .s-1-img{
    margin-left: 50px;
-   /* background-color: aqua; */
    width: 300px;
    height: 350px;
    margin-top: 100px;
@@ -113,7 +112,6 @@
     justify-content: center;
     background-color: rgb(240, 248, 246); 
     margin: 100px 304px;
-    
     width: 1300px;
     height: 150px;
 }
@@ -135,7 +133,6 @@
     justify-content: center;
     text-align: center;
     margin-right: 150px;
-
 }
 .s-3-h{
     font-size: 30px;
@@ -151,3 +148,68 @@
 .s-3-img{
     width: 200px;
 }
+
+/* section-4 */
+
+.section-4{
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px
+}
+.s-4-image{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+}
+.s-4-img{
+    justify-content: center;
+    margin: 10px;
+    width: 300px;
+}
+/* section-5 */
+.section-5{
+    margin-top: 80px;
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+   position: absolute;
+   left: 300px;
+}
+
+.s-5-con{
+    text-align: center;
+    height: 400px;
+    width: 1256px;
+    margin-top: 225px;
+}
+#email{
+    margin-right: 10px;
+    padding: 20px;
+    border: none;
+    width: 500px;
+    border-radius: 10px;
+}
+/* footer section */
+footer{
+    text-align: center;
+    background-color: black;
+    height: 150px;
+    margin-top: 600px;
+}
+.fp{
+    margin: 5px;
+    color: white;
+}
+.fh{
+    color:rgb(226, 30, 89);
+    font-size: 35px;
+}
+.fhshop{
+    color: rgb(255, 255, 255);
+}
+.fc{
+    margin: 20px;
+    color: rgb(109, 107, 107);
+}
+
+/* Almost done */
